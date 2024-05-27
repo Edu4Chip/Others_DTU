@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "spi_memory")(type "KiCad")(uri "${KIPRJMOD}/symbols/spi_memory.kicad_sym")(options "")(descr ""))
+  (lib (name "conn_02x06_top_bottom")(type "KiCad")(uri "${KIPRJMOD}/symbols/conn_02x06_top_bottom.kicad_sym")(options "")(descr ""))
+)
